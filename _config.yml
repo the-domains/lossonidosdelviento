@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4747891
 color:
   saturation: 0.1409774
   brandStrength: 0.4279104
   lightness: 0.1547619
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#08070C'
+    - '#37363C'
+    - '#D4BFAA'
+    - '#A18C6D'
+    - '#FFFCF3'
   rhythmicContrast: 0.2556391
+typography_spectrum: 0.4747891
 layout_spectrum: 0.8777436
 name: LosSonidosDelViento
