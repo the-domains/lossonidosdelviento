@@ -1,14 +1,26 @@
-layout_spectrum: 0.8777436
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4747891
 color:
-  saturation: 0.6117623
-  lightness: 0.3360212
+  saturation: 0.1409774
   brandStrength: 0.4279104
-  rhythmicContrast: 0.9181457
+  lightness: 0.1547619
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  rhythmicContrast: 0.2556391
+layout_spectrum: 0.8777436
 name: LosSonidosDelViento
