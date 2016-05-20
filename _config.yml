@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.514411
 color:
   saturation: 0.1409774
   brandStrength: 0.4279104
-  lightness: 0.1547619
+  rhythmicContrast: 0.2556391
   brandColors:
     - '#08070C'
     - '#37363C'
     - '#D4BFAA'
     - '#A18C6D'
     - '#FFFCF3'
-  rhythmicContrast: 0.2556391
-typography_spectrum: 0.514411
-layout_spectrum: 0.235589
+  lightness: 0.1547619
+layout_spectrum: 0.4692982
 name: LosSonidosDelViento
